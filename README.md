@@ -16,7 +16,7 @@ This repository contains the firmware source code for an **IoT-based Weather Mon
 | :--- | :--- | :--- |
 | **BME280** | GPIO 21 (SDA), 22 (SCL) | I2C Sensor |
 | **OLED Display** | GPIO 21 (SDA), 22 (SCL) | I2C Display |
-| **MQ-135** | GPIO 34 (Analog) | Gas Sensor |
+| **MQ-135** | GPIO 32 (Analog) | Gas Sensor |
 | **SD Card** | GPIO 5 (CS), 18 (SCK), 19 (MISO), 23 (MOSI) | SPI Storage |
 
 ## 🛠️ Installation & Setup
